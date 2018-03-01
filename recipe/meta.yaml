@@ -1,6 +1,6 @@
 {% set name = "django-foundation-formtags" %}
-{% set version = "0.0.9" %}
-{% set sha256 = "4be302c2572ad1a9d22fec30376f3cee345c27bb379fc87f98fa2e40fc4a4f0c" %}
+{% set version = "0.1.0" %}
+{% set sha256 = "22adc83b36a66c24e0e20df29bd2dc0d7b217e2cb40b39d9655aa9d0cd74ac3a" %}
 
 package:
   name: {{ name|lower }}

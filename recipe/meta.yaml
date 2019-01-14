@@ -24,8 +24,9 @@ requirements:
     - django >=1.8
 
 test:
-  import:
+  imports:
     - foundation_formtags
+    
 about:
   home: https://github.com/chrisdev/django-foundation-formtags
   license: BSD-3-Clause
